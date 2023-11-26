@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Oswald'; 
+	font-weight: 200 700; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Oswald-VariableFont_wght.033f2e7815bfa96db10bbb07ca20fb93.ttf) format('truetype-variations');
+}

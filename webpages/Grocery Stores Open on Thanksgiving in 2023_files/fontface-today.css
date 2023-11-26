@@ -1,0 +1,99 @@
+@font-face {
+	font-family: 'Prata'; 
+	font-weight: 400; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Prata-Regular.f632dd94699c3b85917c65f75364c414.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Prata-Regular.763e3565f445273d296dd426e17b612e.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 900; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Black.a06b17995c0cc8696552493296baecbc.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Black.1c9dac8b997258063466ef54936f705b.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 700; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Bold.c48b06715dedcd1a26afc4eabf1efbad.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Bold.d4da5dfcc222c91b8db3128aa1606470.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 600; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-SemiBold.640c1322e93d1bd3b88dbebf9215569f.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-SemiBold.0fc754334bd77abcf6f608a0885ecf6b.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 400; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Regular.acf1df6a4a02af99dfb707aca3f9ea70.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Regular.312211a2b070b19d2765c9da31432ee7.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 500; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Medium.6fc3ca27c11fa981c668d5aad10a0fb6.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Medium.f9e8cf8a64020ef5dfba2303a2e70654.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 300; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Light.ade053f8de12619e8f6454be6d06bb9e.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-Light.cec79a07f22783f862cf3e21050050d1.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Mada'; 
+	font-weight: 200; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-ExtraLight.a2f5e84267ef63b094cc82394e1cfb9c.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/Mada-ExtraLight.56062119b06f3fdedc2f7830d8b44221.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'CrimsonPro'; 
+	font-weight: 400; 
+	font-style: normal; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/CrimsonPro-VariableFont_wght.f26c57e2e866ad9b1f9c896c3cc54b16.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/CrimsonPro-VariableFont_wght.c8f4ab46c1f9058e89024f416a20a13a.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'CrimsonPro'; 
+	font-weight: 400; 
+	font-style: italic; 
+	font-display: swap; 
+	src:
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/CrimsonPro-Italic-VariableFont_wght.a185accc906ae55cd9ca3d67952fec6c.woff2) format('woff2'),
+		url(https://nodeassets.nbcnews.com/assets/fonts/shared/CrimsonPro-Italic-VariableFont_wght.e28320010d1e7ec95b14cc5121e2f3be.woff) format('woff');
+}
