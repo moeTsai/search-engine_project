@@ -25,17 +25,10 @@ def search_in_trie(root, word):
 
 def parse_to_save(webpage_folder, stop_words):
     webpages = set()
-
     for filename in os.listdir(webpage_folder):
-        # open the file only if it is a .html file
-        # print(os.listdir(webpage_folder))
-        if not filename.endswith('.html'):
-            continue
         with open(os.path.join(webpage_folder, filename), 'r', encoding='utf-8') as file:
-            # print(filename)
             soup = BeautifulSoup(file.read(), 'html.parser')
             text = soup.get_text().lower()
-            # print(text)
             for stop_word in stop_words:
                 text = text.replace(stop_word, '')
             webpages.add(text)
