@@ -1,0 +1,33 @@
+(.venv) PS C:\Users\a0955\OneDrive\文件\GitHub\CS-600-project-search-engine> & python search_engine.py
+Enter a word to search (or enter 'esc' to exit):  
+Word ' ' not found in any webpages.
+Enter a word to search (or enter 'esc' to exit): !!!
+Word '!!!' not found in any webpages.
+Enter a word to search (or enter 'esc' to exit): @@@
+Word '@@@' not found in any webpages.
+Enter a word to search (or enter 'esc' to exit): friends
+Word 'friends' found in webpage: 1 with frequency: 5
+Word 'friends' found in webpage: 2 with frequency: 2
+Word 'friends' found in webpage: 0 with frequency: 1
+Word 'friends' found in webpage: 5 with frequency: 1
+Word 'friends' found in webpage: 6 with frequency: 1
+Enter a word to search (or enter 'esc' to exit): ThanksGiving
+Word 'thanksgiving' found in webpage: 2 with frequency: 48
+Word 'thanksgiving' found in webpage: 4 with frequency: 38
+Word 'thanksgiving' found in webpage: 1 with frequency: 19
+Word 'thanksgiving' found in webpage: 3 with frequency: 15
+Word 'thanksgiving' found in webpage: 8 with frequency: 13
+Word 'thanksgiving' found in webpage: 6 with frequency: 2
+Word 'thanksgiving' found in webpage: 0 with frequency: 1
+Enter a word to search (or enter 'esc' to exit): christmas
+Word 'christmas' not found in any webpages.
+Enter a word to search (or enter 'esc' to exit): news
+Word 'news' found in webpage: 2 with frequency: 14
+Word 'news' found in webpage: 1 with frequency: 11
+Word 'news' found in webpage: 4 with frequency: 11
+Word 'news' found in webpage: 3 with frequency: 9
+Word 'news' found in webpage: 6 with frequency: 9
+Word 'news' found in webpage: 0 with frequency: 7
+Word 'news' found in webpage: 7 with frequency: 5
+Word 'news' found in webpage: 5 with frequency: 2
+Word 'news' found in webpage: 8 with frequency: 2
